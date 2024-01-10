@@ -18,8 +18,7 @@ The objective of this project is to analyze last 20 years of data and answer the
  In addition to this analysis, the project is aimed to develop predictive models and understand what are the key factors that impact the winning or losing of tennis player based on their past performance. The following classfication algorithms will be used to develop the models:
 1. Logistic Regression
 2. KNN
-3. Support Vector Classifier
-4. Naive Bayes
-5. Decision Tree Classifier 
-6. Random Forest Classifier
+3. Naive Bayes
+4. Decision Tree Classifier 
+5. Random Forest Classifier
 
